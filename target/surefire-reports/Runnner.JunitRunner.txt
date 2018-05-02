@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Runnner.JunitRunner
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 38.088 sec - in Runnner.JunitRunner
